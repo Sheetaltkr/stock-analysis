@@ -56,12 +56,13 @@ https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/Refactored_code
 Before-->
 ![VBA_Challenge_2017_before](https://user-images.githubusercontent.com/89044741/132109714-6830f590-4902-4fc5-af1e-465636aff762.png)
 After-->
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/89044741/132109716-a48592bb-db90-4f55-b82c-366bef4801ea.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/89044741/132110568-e9bcdd3d-349d-4640-9d41-bcdf3ef32549.png)
+
 #### Execution time comparison for 2018
 Before-->
 ![VBA_Challenge_2018_before](https://user-images.githubusercontent.com/89044741/132109723-d7617481-6da2-46d1-86fd-f0f9983cd221.png)
 After-->
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/89044741/132109728-4109f009-25f5-41dd-9e70-bffb34e36770.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/89044741/132110563-8a9aa2d1-a5f8-448f-ae62-94ecc8c7527a.png)
 
 
 ## Pros and Cons of Re-Factoring Code
