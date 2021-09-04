@@ -22,7 +22,6 @@ The existing code works well for a dozen stocks, however it might not work as we
 ## Results
 
 
-
 ### 1) Stock Performance analysis and comparison for 2017 and 2018
 
 #### In 2017
@@ -50,6 +49,15 @@ The existing code works well for a dozen stocks, however it might not work as we
 ### 1) Original script and Re-factored script execution time comparison for 2017 and 2018
 
 #### Execution time comparison for 2017
+Before:
+![VBA_Challenge_2017_before](https://user-images.githubusercontent.com/89044741/132109714-6830f590-4902-4fc5-af1e-465636aff762.png)
+After:
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/89044741/132109716-a48592bb-db90-4f55-b82c-366bef4801ea.png)
+#### Execution time comparison for 2018
+Before:
+![VBA_Challenge_2018_before](https://user-images.githubusercontent.com/89044741/132109723-d7617481-6da2-46d1-86fd-f0f9983cd221.png)
+After:
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/89044741/132109728-4109f009-25f5-41dd-9e70-bffb34e36770.png)
 
 
 ## Pros and Cons of Re-Factoring Code
