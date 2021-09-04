@@ -47,16 +47,20 @@ The existing code works well for a dozen stocks, however it might not work as we
 ![Stock Performance comparison 2017 vs 2018](https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/VBA_Challenge_Comparison_2018_vs_2017.png)
 
 ### 1) Original script and Re-factored script execution time comparison for 2017 and 2018
+#### Original Code
+https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/original_code.bas
+#### Re-factored Code
+https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/Refactored_code.bas
 
 #### Execution time comparison for 2017
-Before:
+Before-->
 ![VBA_Challenge_2017_before](https://user-images.githubusercontent.com/89044741/132109714-6830f590-4902-4fc5-af1e-465636aff762.png)
-After:
+After-->
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/89044741/132109716-a48592bb-db90-4f55-b82c-366bef4801ea.png)
 #### Execution time comparison for 2018
-Before:
+Before-->
 ![VBA_Challenge_2018_before](https://user-images.githubusercontent.com/89044741/132109723-d7617481-6da2-46d1-86fd-f0f9983cd221.png)
-After:
+After-->
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89044741/132109728-4109f009-25f5-41dd-9e70-bffb34e36770.png)
 
 
