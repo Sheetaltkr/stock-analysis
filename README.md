@@ -7,9 +7,9 @@
 
 #### Background
 
-Steve uses a stock_analysis program which generates Total\_Daily\_Volume and Yearly\_ Return for a set of 12 Stock Tickers for his parents.
+Steve uses a stock_analysis program which generates **Total Daily Volume** and **Yearly Return** for a set of 12 Stock Tickers for his parents.
 
-Steve wants to expand the scope of his stock_analysis research to include entire stock market over the last few years to do a little more research.  
+He wants to expand the scope of his stock_analysis research to include entire stock market over the last few years to do a little more research.  
 
 The existing code works well for a dozen stocks, however it might not work as well for thousands of stocks. And if it does, it may have performance issues.
 
