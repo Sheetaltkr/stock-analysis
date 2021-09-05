@@ -5,7 +5,7 @@
 - Determine if code has better **run time** and optimized **resource** usage. 
 
 
-#### Background
+### Background
 
 Steve uses a stock_analysis program which generates **Total Daily Volume** and **Yearly Return** for a set of 12 Stock Tickers for his parents.
 
@@ -46,19 +46,23 @@ The existing code works well for a dozen stocks, however it might not work as we
 
 ![Stock Performance comparison 2017 vs 2018](https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/VBA_Challenge_Comparison_2018_vs_2017.png)
 
-### 1) Original script and Re-factored script execution time comparison for 2017 and 2018
+### 2) Original script and Re-factored script execution time comparison for 2017 and 2018
+Execution time after refactoring improved by 89.3% for 2017 dataset and improved by 88.8% for 2018 dataset.
+
 ##### Original Code
 https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/original_code.bas
 ##### Re-factored Code
 https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/Refactored_code.bas
 
 ##### Execution time comparison for 2017
+#
 Before-->
 ![VBA_Challenge_2017_before](https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/VBA_Challenge_2017_before.png)
 After-->
 ![VBA_Challenge_2017](https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
 ##### Execution time comparison for 2018
+#
 Before-->
 ![VBA_Challenge_2018_before](https://github.com/Sheetaltkr/stock-analysis/blob/main/resources/VBA_Challenge_2018_before.png)
 After-->
@@ -66,7 +70,7 @@ After-->
 
 #
 
-## Summary:
+## Summary
 Re-Factoring means modifying the code for better performance without changing the functionality.The stock analysis program code after re-factoring has faster run time with the same volume of data. The output data is same as before.
 
 ### Advantages and Disadvantages of Re-Factoring Code
