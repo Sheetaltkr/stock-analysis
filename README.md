@@ -66,12 +66,10 @@ After-->
 
 #
 
-## Summary: In a summary statement, address the following questions.
+## Summary:
+Re-Factoring means modifying the code for better performance without changing the functionality.The stock analysis program code after re-factoring has faster run time with the same volume of data. The output data is same as before.
 
 ### Advantages and Disadvantages of Re-Factoring Code
-
-
-Re-Factoring means modifying the code for better performance without changing the functionality.
 ##### Advantages
 - Possible Lesser code lines
 - Possible Faster run time
